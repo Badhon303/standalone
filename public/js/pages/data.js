@@ -1,5 +1,5 @@
 $(document).ready(function () {
-  let base_url = "http://localhost:3000"
+  let base_url = "http://132.145.168.100:3000"
   var high_weld_cur_threshold,
     set_weld_cur_threshold,
     low_weld_cur_threshold,
